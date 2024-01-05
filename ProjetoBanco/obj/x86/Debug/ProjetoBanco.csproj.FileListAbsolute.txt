@@ -1,0 +1,12 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ProjetoBanco\bin\Debug\ProjetoBanco.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ProjetoBanco\bin\Debug\ProjetoBanco.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ProjetoBanco\obj\x86\Debug\ProjetoBanco.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ProjetoBanco\obj\x86\Debug\ProjetoBanco.pdb
+C:\Users\aluno\documents\visual studio 2010\Projects\ProjetoBanco\ProjetoBanco\obj\x86\Debug\ProjetoBanco.exe
+C:\Users\aluno\documents\visual studio 2010\Projects\ProjetoBanco\ProjetoBanco\obj\x86\Debug\ProjetoBanco.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.pdb
+C:\Users\Family\Documents\Visual Studio 2022\ProjetoBanco\ProjetoBanco\obj\x86\Debug\ProjetoBanco.csproj.AssemblyReference.cache
+C:\Users\Family\Documents\Visual Studio 2022\ProjetoBanco\ProjetoBanco\obj\x86\Debug\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\Visual Studio 2022\ProjetoBanco\ProjetoBanco\obj\x86\Debug\ProjetoBanco.exe
+C:\Users\Family\Documents\Visual Studio 2022\ProjetoBanco\ProjetoBanco\obj\x86\Debug\ProjetoBanco.pdb
